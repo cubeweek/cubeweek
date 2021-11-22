@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @cubeweek
 - 👀 I’m interested in Java, Spring Framework, and latest technology on the backend side.
 - 🌱 I’m currently learning ... REST, JPA etc.
-- 📫 If you want to contact me, Send an e-mail to cubeweek@gmail.com.
