@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @cubeweek
-- 👀 I’m interested in Java, Spring Framework, and latest technology on the backend side.
-- 🌱 I’m currently learning ... REST, JPA etc.
+- 👋 Hi, I’m @cubeweek and I work as a backend engineer.
+- 👀 I’m interested in Java, Kotlin, Python, and latest technology on the backend side.
+- 🌱 I’m currently learning Kotlin.
