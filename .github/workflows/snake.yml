@@ -2,9 +2,9 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 기존 12시간 주기도 백업으로 유지
+    - cron: "0 */12 * * *"
   repository_dispatch:
-    types: [update-snake] # 외부 레포에서 이 타입으로 신호를 보내면 작동함
+    types: [update-snake]
   workflow_dispatch:
   push:
     branches:
@@ -13,7 +13,14 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
+      # [필수 추가] 소스코드를 체크아웃하여 레포지토리 컨텍스트를 확보합니다.
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 뱀 애니메이션 SVG 생성
       - name: generate-github-contribution-grid-snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +29,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # 생성된 SVG 파일을 output 브랜치에 푸시
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
