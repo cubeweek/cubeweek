@@ -1,5 +1,4 @@
-<p align="center"><img src="resources/img/kodee-happy.gif" alt="" style="vertical-align: bottom;" /><span style="display: inline-block; vertical-align: middle; text-align: center; margin: 0 20px;"><font size="6"><b>Hi, I'm cubeweek</b></font><br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=> Back-end Engineer;> Large-Scale Data Strategist;> Automation Lover;> complex | simple;> heavy | light" alt="" align="center" /></span><img src="resources/img/kodee-happy.gif" alt="" style="vertical-align: bottom" /></p>
-
+<p align="center"><img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" /><span style="display: inline-block; vertical-align: middle; text-align: center; margin: 0 15px; width: 380px;"><font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font><br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Love;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="" style="vertical-align: middle;" /></span><img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" /></p>
 ---
 
 ```bash
