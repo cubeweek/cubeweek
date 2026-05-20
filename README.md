@@ -1,17 +1,11 @@
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none!important;; border-collapse: collapse; background-color: transparent;" width="100%">
-  <tr>
-    <td align="right" style="border: none!important; padding: 0 10px;">
-    <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom; margin-bottom: -4px;" />
-    </td>
-    <td align="center" style="border: none!important;; padding: 0;">
-        <h3>Hi, I'm cubeweek</h3>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" width="460" height="40" />
-    </td>
-    <td align="left" style="border: none!important;; padding: 0 10px;">
-    <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom; margin-bottom: -4px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="resources/img/kodee-happy.gif" width="100" />&nbsp;&nbsp;&nbsp;
+  <span style="font-size: 28px; font-weight: bold; color: white; vertical-align: middle;">
+    Hi, I'm cubeweek<br>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" width="460" height="40" />
+  </span>&nbsp;&nbsp;&nbsp;
+  <img src="resources/img/kodee-happy.gif" width="100" />
+</p>
 
 ---
 
