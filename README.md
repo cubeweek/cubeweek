@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=C9D1D9&center=true&vCenter=true&width=450&height=50&lines=Hi%2C+I'm+cubeweek" style="vertical-align: middle;" />
-  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=40&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" style="vertical-align: middle;" />
+  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom; margin-bottom: -5px;" />
+  <span style="display: inline-block; vertical-align: bottom; text-align: center; margin: 0 15px; width: 460px;">
+    <h1 align="center" style="border-bottom: none; margin: 0 0 20px 0; padding: 0; color: #c9d1d9; font-size: 2.1em;">Hi, I'm cubeweek</h1>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&height=40&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="" style="vertical-align: bottom;" />
+  </span>
+  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom; margin-bottom: -5px;" />
 </p>
 
 ---
