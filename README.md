@@ -1,5 +1,7 @@
 <p align="center"><img src="resources/img/kodee-happy.gif" alt="" style="vertical-align: bottom;" /><span style="display: inline-block; vertical-align: middle; text-align: center; margin: 0 20px;"><font size="6"><b>Hi, I'm cubeweek</b></font><br><br><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=> Back-end Engineer;> Large-Scale Data Strategist;> Automation Lover;> complex | simple;> heavy | light" alt="" align="center" /></span><img src="resources/img/kodee-happy.gif" alt="" style="vertical-align: bottom" /></p>
+
 ---
+
 ```bash
 $ cubeweek --status
 [Role]       Senior Backend Engineer (10+ Years)
