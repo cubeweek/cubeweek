@@ -1,11 +1,8 @@
-<div id="user-content-toc" align="center">
-  <summary align="center">
-    <h1 align="center">
-      <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
-      Hi, I'm cubeweek!
-      <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
-    </h1>
-  </summary>
+<h1 align="center">
+  <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
+  Hi, I'm cubeweek!
+  <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
+</h1>
 </div>
 
 <p align="center">
