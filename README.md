@@ -1,10 +1,10 @@
 <div id="user-content-toc" align="center">
   <summary align="center">
-    <h2 align="center">
+    <h1 align="center">
       <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
-      Hi, I'm cubeweek
+      Hi, I'm cubeweek!
       <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
-    </h2>
+    </h1>
   </summary>
 </div>
 
