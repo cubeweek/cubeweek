@@ -54,8 +54,10 @@ $ cubeweek --status
 ## 📈 GitHub Stats
 <img src="https://raw.githubusercontent.com/cubeweek/cubeweek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="margin-top:-10px" />
 
+<!--
 ## 🔗 Contact
 <div align="left">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cubeweek@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cubeweek)
 </div>
+-->
