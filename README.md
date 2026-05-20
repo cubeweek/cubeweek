@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="resources/img/kodee-happy.gif" width="70" style="vertical-align: bottom;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="resources/img/kodee-happy.gif" width="70" style="vertical-align: bottom;" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=32&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" />
+  <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=32&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
 </p>
 
 ---
