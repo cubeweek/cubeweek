@@ -20,15 +20,23 @@ $ cubeweek --status
 * 🤕 반복적인 수작업을 보면 자동화를 참을 수 없는 병을 앓고 있습니다.
 
 ## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square)
-<br />![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![php](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white)
-<br />![jsp](https://img.shields.io/badge/jsp-ED8B00?style=flat-square&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=flat-square&logo=css) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery)
-<br />![RDBMS](https://img.shields.io/badge/RDBMS-777777?style=for-the-badge&logo=MySql&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-6DB33F?style=flat-square&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logoColor=white)
-<br />![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RabbitMq](https://img.shields.io/badge/RabbitMq-FF6600?style=for-the-badge&logo=RabbitMq&logoColor=white)
+<table>
+    <tr>
+        <td width="50%" valign="top">
+            ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![Spring Batch](https://img.shields.io/badge/Spring_Batch-6DB33F?style=flat-square)
+            <br />![python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![php](https://img.shields.io/badge/php-3776AB?style=for-the-badge&logo=php&logoColor=white)
+            <br />![jsp](https://img.shields.io/badge/jsp-ED8B00?style=flat-square&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/css-663399?style=flat-square&logo=css) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery)
+            <br />![RDBMS](https://img.shields.io/badge/RDBMS-777777?style=for-the-badge&logo=MySql&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-6DB33F?style=flat-square&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logoColor=white) ![QueryDSL](https://img.shields.io/badge/QueryDSL-6DB33F?style=flat-square&logoColor=white)
+            <br />![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![RabbitMq](https://img.shields.io/badge/RabbitMq-FF6600?style=for-the-badge&logo=RabbitMq&logoColor=white)
+        </td>
+        <td width="50%" valign="top">
+            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cubeweek&layout=compact&theme=tokyonight" alt="Top Languages" />
+        </td>
+    </tr>
+</table>
 
 ## 📈 GitHub Stats
 <img src="https://raw.githubusercontent.com/cubeweek/cubeweek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cubeweek&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ## 🔗 Contact
 <div align="left">
