@@ -1,5 +1,5 @@
 <p align="center">
-  <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
+## Hi, I'm cubeweek
   <br>
   <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
   &nbsp;&nbsp;
