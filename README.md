@@ -36,7 +36,7 @@ $ cubeweek --status
             <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css" alt="css">
             <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript">
             <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery" alt="jQuery">
-            <br><br>
+            <br>
             <img src="https://img.shields.io/badge/RDBMS-777777?style=for-the-badge&logo=MySql&logoColor=white" alt="RDBMS">
             <img src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat-square&logoColor=white" alt="MyBatis">
             <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logoColor=white" alt="JPA">
