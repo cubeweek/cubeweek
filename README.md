@@ -1,10 +1,10 @@
-<table align="center" style="border-collapse: collapse; border: none; background: transparent; margin: 0 auto;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border-style: none; background: transparent; margin: 0 auto;">
   <tr style="border: none; background: transparent;">
     <td style="border: none; padding: 0; vertical-align: middle;">
       <img src="resources/img/kodee-happy.gif" width="100" />
     </td>
     <td style="border: none; padding: 0 20px; text-align: center; vertical-align: middle; width: 450px;">
-      <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
+      <font size="5" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
       <br><br>
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="" />
     </td>
