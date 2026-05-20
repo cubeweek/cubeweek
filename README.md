@@ -22,7 +22,7 @@ $ cubeweek --status
 ## 🛠️ Tech Stack
 <table>
     <tr>
-        <td width="50%" valign="top" style="vertical-align:middle;">
+        <td width="50%" valign="middle">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black" alt="Java">
             <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
             <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring">
