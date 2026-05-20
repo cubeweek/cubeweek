@@ -1,11 +1,15 @@
-<div id="user-content-toc">
-  <ul style="list-style: none;">
-    <summary>
-      <h1 align="center">Hi, I'm cubeweek<img src="resources/img/kodee-walking.gif" width="80" alt="" /></h1>
-    </summary>
-  </ul>
+<div id="user-content-toc" align="center">
+  <summary align="center">
+    <h2 align="center">
+      Hi, I'm cubeweek
+      <img src="resources/img/kodee-walking.gif" width="60" style="vertical-align: middle;" />
+    </h2>
+  </summary>
 </div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=32&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" style="align-self: center"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=40&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" />
+</p>
 
 ---
 
