@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="margin-top:-10px">
   <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
   Hi, I'm cubeweek!
   <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
@@ -52,7 +52,7 @@ $ cubeweek --status
 </table>
 
 ## 📈 GitHub Stats
-<img src="https://raw.githubusercontent.com/cubeweek/cubeweek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/cubeweek/cubeweek/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="margin-top:-10px" />
 
 ## 🔗 Contact
 <div align="left">
