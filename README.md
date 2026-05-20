@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top:-10px">
+<h1 align="center" style="margin-top:-20px">
   <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
   Hi, I'm cubeweek!
   <img src="resources/img/kodee-happy.gif" width="60" style="vertical-align: middle;" />
