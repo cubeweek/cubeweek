@@ -1,7 +1,7 @@
 <p align="center">
   <img src="resources/img/kodee-happy.gif" width="80" style="vertical-align: bottom;" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
+  <h3><b>Hi, I'm cubeweek</b></h3>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="resources/img/kodee-happy.gif" width="80" style="vertical-align: bottom;" />
   <br>
