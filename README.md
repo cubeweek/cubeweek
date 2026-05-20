@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom;" alt="" />
-  <svg width="460" height="95" viewBox="0 0 460 95" xmlns="http://www.w3.org/2000/svg" style="vertical-align: bottom; display: inline-block;">
-    <text x="230" y="32" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="bold" text-anchor="middle">Hi, I'm cubeweek</text>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=460&amp;height=40&amp;lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" x="0" y="55" width="460" height="40" alt="" />
-  </svg>
-  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: bottom;" alt="" />
+  <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
+</p>
+
+<p align="center">
+  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=40&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" style="vertical-align: middle;" />
+  &nbsp;&nbsp;
+  <img src="resources/img/kodee-happy.gif" width="100" style="vertical-align: middle;" />
 </p>
 
 ---
