@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="resources/img/kodee-happy.gif" width="100" />&nbsp;&nbsp;&nbsp;
-  <span style="font-size: 28px; font-weight: bold; color: white; vertical-align: middle;">
-    Hi, I'm cubeweek<br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" width="460" height="40" />
-  </span>&nbsp;&nbsp;&nbsp;
-  <img src="resources/img/kodee-happy.gif" width="100" />
+  <img src="resources/img/kodee-happy.gif" width="80" style="vertical-align: bottom;" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <font size="6" color="#c9d1d9"><b>Hi, I'm cubeweek</b></font>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="resources/img/kodee-happy.gif" width="80" style="vertical-align: bottom;" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&height=32&background=00000000&lines=%3E+Back-end+Engineer;%3E+Large-Scale+Data+Strategist;%3E+Automation+Lover;%3E+complex+%7C+simple;%3E+heavy+%7C+light" alt="Typing SVG" />
 </p>
 
 ---
