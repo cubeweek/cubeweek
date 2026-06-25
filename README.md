@@ -16,7 +16,7 @@ $ cubeweek --status
 [Mission]    complex | simple && heavy | light
 ```
 
-* <img src="resources/img/kodee-loading.gif" height="15">&nbsp;**Currently learning** | 대규모 트래픽 환경에서의 고가용성 시스템 설계
+* <img src="resources/img/kodee-loading.gif" height="15">&nbsp;**Currently learning** | [대규모 트래픽을 처리하는 고가용성(High Availability) 시스템 설계](https://github.com/cubeweek/study_ha_ticketing)
 * 🤕 반복적인 수작업을 보면 자동화를 참을 수 없는 병을 앓고 있습니다.
 
 ## 🛠️ Tech Stack
