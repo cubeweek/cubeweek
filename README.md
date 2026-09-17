@@ -46,7 +46,7 @@ $ cubeweek --status
             <img src="https://img.shields.io/badge/RabbitMq-FF6600?style=for-the-badge&logo=RabbitMq&logoColor=white" alt="RabbitMq">
         </td>
         <td width="50%" valign="top">
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cubeweek&layout=compact&theme=tokyonight" alt="Top Languages" />
+            <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cubeweek&layout=compact&theme=tokyonight" alt="Top Languages" />
         </td>
     </tr>
 </table>
